@@ -12,6 +12,7 @@ Preliminary locations and speakers (we may make some changes over next couple of
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Matt Ellis](https://twitter.com/citizenmatt) <br/> [Eirik Tsarpalis](https://twitter.com/eiriktsarpalis) |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) |
+| [MK.NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
 
 We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
 
@@ -60,3 +61,9 @@ Microsoft MVP. Based in UK.
 Program manager on .NET team (WinForms, WPF and other areas). Based in Redmond, USA.
 
 ### [Tim Seaward](https://twitter.com/timseaw)
+
+Based in UK.
+
+### [Richard Campbell](https://twitter.com/richcampbell)
+
+Microsoft Regional Director. Host of .NET Rocks! Based in Canada.
