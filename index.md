@@ -9,7 +9,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
-| [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) | [Luce Carter](https://twitter.com/LuceCarter1) <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
+| [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Eirik Tsarpalis](https://twitter.com/eiriktsarpalis) |
@@ -116,9 +116,23 @@ The talk will cover:
 
 
 
-### [Luce Carter](https://twitter.com/LuceCarter1)
+### [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services
 
-Microsoft MVP. Based in Manchester, UK.
+Luce is a Microsoft MVP, Twilio Champion and lover of code, sunshine and trains, based in Manchester, England.
+
+When not writing mobile apps for fun in her spare time, she curates the Xamarin Weekly newsletter, edits for James Montemagno and speaks at events around the UK and Europe.
+
+Follow Luce on Twitter [@LuceCarter1](https://twitter.com/LuceCarter1) and also her Blog at [lucecarter.co.uk](https://lucecarter.co.uk/)
+
+**Abstract:**
+
+You can be faced with a nightmare of Xcode, Android Studio, Swift, Objective C, and other options. This means not only learning multiple languages and frameworks but also having to support two different codebases for the same application. But Xamarin Native and Xamarin.Forms offer a powerful, cross-platform development solution for .NET developers looking to target smartphones, tablets, TV’s, computers and IoT devices.
+
+In this talk, Luce shares what Xamarin is including Native and Xamarin.Forms for both C# and F#, how to get started creating a simple HelloWorld app from scratch and a more complex example (will involve at least one Azure service including Cognitive Services for facial recognition). Also some awesome examples of apps written using Xamarin including ones used to save lives!
+
+Luce will take examples from [xamarin.com/customers](https://dotnet.microsoft.com/apps/xamarin/customers) as well as show this demo about how Xamarin was used alongside other technologies to aid with Skin Cancer prediction.
+
+This talk will include slides, demos, code samples, live coding and the audience will walk away feeling like they too can create a mobile app in just a few minutes and carry their work around with them in their pocket or backpack!
 
 
 
