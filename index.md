@@ -2,7 +2,9 @@
 
 On Tuesday, January 28th 2020 at 6:30pm, members of the .NET community and the Microsoft .NET Team will be hosting multiple concurrent .NET events across the UK.
 
-Preliminary locations and speakers (we may make some changes over next couple of days).
+Preliminary locations and speakers (we may make some changes throughout 1/21).
+
+If you are a **new speaker** (especially from underrepresented groups in tech) and would like to join us on stage, please ping organizers [Karel Zikmund](https://twitter.com/ziki_cz) and/or [Steve Gordon](https://twitter.com/stevejgordon) -- see our [tweet announcement](https://twitter.com/ziki_cz/status/1218204264092225536) for details.
 
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
@@ -12,7 +14,8 @@ Preliminary locations and speakers (we may make some changes over next couple of
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Eirik Tsarpalis](https://twitter.com/eiriktsarpalis) |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) <br/> [Dean Ward](https://twitter.com/deanward81) |
-| [MK.NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
+| [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
+| [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar <br/> [Martin Woodward](https://twitter.com/martinwoodward) |
 
 We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
 
