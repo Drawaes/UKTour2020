@@ -8,7 +8,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
-| [London .NET User Group](https://www.meetup.com/London-NET-User-Group/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) <br/> [Diego Colombo](https://twitter.com/colombod) |
+| [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) <br/> [Diego Colombo](https://twitter.com/colombod) |
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) | [Luce Carter](https://twitter.com/LuceCarter1) <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
