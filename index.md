@@ -12,7 +12,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
-| [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Eirik Tsarpalis](https://twitter.com/eiriktsarpalis) |
+| [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) <br/> [Dean Ward](https://twitter.com/deanward81) |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
 | [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar <br/> [Martin Woodward](https://twitter.com/martinwoodward) |
@@ -62,12 +62,6 @@ Over the past 20 years Diego has been working in lots of different industries us
 **Abstract:**
 
 .NET interactive brings interactive development and notebooks experience to .NET developers. This talk will introduce the project and tools. We will cover the how to get started, the basics and some of the feature available out of the box.
-
-
-
-### [Eirik Tsarpalis](https://twitter.com/eiriktsarpalis)
-
-Developer on .NET Libraries team at Microsoft. Based in London, UK.
 
 
 
