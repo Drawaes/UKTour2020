@@ -16,7 +16,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) <br/> [Dean Ward](https://twitter.com/deanward81) |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
 | [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar <br/> [Martin Woodward](https://twitter.com/martinwoodward) |
-| [Birmingham .Net & Xamarin User Group](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/) | [Simon Painter](https://twitter.com/madSimonJ) |
+| [Birmingham .Net & Xamarin User Group](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/) | [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy |
 
 We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
 
