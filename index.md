@@ -12,10 +12,10 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
-| [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) |
-| [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) |
-| [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
-| [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar <br/> [Martin Woodward](https://twitter.com/martinwoodward) |
+| [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Martin Beeby](https://twitter.com/thebeebs) |
+| [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
+| [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) - The History of .NET |
+| [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar - Building a one stop shop for monitoring and availability <br/> [Martin Woodward](https://twitter.com/martinwoodward) - GitHub actions deep dive |
 | [Birmingham .Net & Xamarin User Group](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/265178106/) | [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy |
 
 We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
@@ -48,11 +48,13 @@ David is is mostly interested in C#, good design and Lego Technic and Creator Ex
 
 
 
-### [Dean Ward](https://twitter.com/deanward81)
+### [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams
 
-Developer at Stack Overflow. Based in UK.
+Principal developer on the Architecture Team at Stack Overflow working remotely out of Brighton, UK.
 
+**Abstract:**
 
+How we scaled Stack Overflow for extreme multi-tenancy. A whistle stop tour of tweaking code, infrastructure and everything else we could think of to make a 10 year old monolith play well in a new and operationally very different environment.
 
 ### [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks
 
@@ -131,6 +133,12 @@ This talk will include slides, demos, code samples, live coding and the audience
 
 
 
+### [Martin Beeby](https://twitter.com/thebeebs)
+
+Developer Evangelist at AWS working on dotnet and beyond. Based in UK.
+
+
+
 ### [Matt Warren](https://twitter.com/matthewwarren)
 
 Microsoft MVP. Based in UK.
@@ -146,6 +154,13 @@ Program manager on .NET team (WinForms, WPF and other areas). Based in Redmond, 
 ### [Richard Campbell](https://twitter.com/richcampbell)
 
 Microsoft Regional Director. Host of .NET Rocks! Based in Canada.
+
+Richard Campbell wrote his first line of code in 1977. His career has spanned the computing industry both on the hardware and software sides, development and operations. He was a co-founder of Strangeloop Networks, acquired by Radware in 2013 and was on the board of directors of Telerik which was acquired by Progress Software in 2014. Today he is a consultant and advisor to a number of successful technology firms and is the founder and chairman of Humanitarian Toolbox ([htbox.org](http://htbox.org)), a public charity that builds open source software for disaster relief. Richard is also the host of two podcasts: .NET Rocks! ([dotnetrocks.com](https://dotnetrocks.com/)) the Internet Audio Talkshow for .NET developers and RunAs Radio ([runasradio.com](http://runasradio.com/)) which is a weekly show for IT Professionals.
+
+**Abstract:**
+
+.NET continues to evolve - but how did it get here? Join Richard Campbell on a tour of the history of .NET, Visual Studio and the related tools that have been helping developers produce millions of applications. So many forces shape how development tools are created, and Richard ties together the story of the hardware, software, market and political forces that have brought .NET to be an open-source, cross-platform development platform. The winding path of .NET has been influenced by many things along the way, and the future looks bright!
+
 
 
 ### [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy
@@ -165,6 +180,8 @@ One of my pet hates is writing enhancements that involve copying and pasting blo
 What's the alternative? In this talk, I'll demonstrate a way of working that avoids all this unneccesary work, and gives you more time to do something more productive.
 
 
-### [Tim Seaward](https://twitter.com/timseaw)
+### [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework
 
 By day works in a place that he can't mention on electronic trading things he can't talk about. By night a .NET open source contributor that loves all things networking and protocols . Based in UK.
+
+**Abstract:** TODO
