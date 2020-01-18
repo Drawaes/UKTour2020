@@ -9,13 +9,13 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
-| [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
-| [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
+| [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) (London) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
+| [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Martin Beeby](https://twitter.com/thebeebs) |
-| [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
+| [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) (Bristol) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) - The History of .NET |
-| [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar - Building a one stop shop for monitoring and availability <br/> [Martin Woodward](https://twitter.com/martinwoodward) - GitHub actions deep dive |
+| [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) (Nottingham) | Vishal Vazkar - Building a one stop shop for monitoring and availability <br/> [Martin Woodward](https://twitter.com/martinwoodward) - GitHub actions deep dive |
 | [Birmingham .Net & Xamarin User Group](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/265178106/) | [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy |
 
 We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
