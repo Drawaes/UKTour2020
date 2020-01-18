@@ -13,9 +13,10 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) |
-| [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) Digging into the bedrock (framework) <br/> [Dean Ward](https://twitter.com/deanward81) |
+| [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
 | [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar <br/> [Martin Woodward](https://twitter.com/martinwoodward) |
+| [Birmingham .Net & Xamarin User Group](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/265178106/) | [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy |
 
 We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
 
@@ -145,6 +146,24 @@ Program manager on .NET team (WinForms, WPF and other areas). Based in Redmond, 
 ### [Richard Campbell](https://twitter.com/richcampbell)
 
 Microsoft Regional Director. Host of .NET Rocks! Based in Canada.
+
+
+### [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy
+
+I've been working as a .NET developer for over 14 years now in a variety of industries including government, retail and manufacturing. But as a coder, I've been playing with making computers do whatever my crazed imagination could devise since I was old enough to read my Dad's copy of the ZX Spectrum BASIC coders manual.
+
+I've been speaking about Functional C# at various user groups and conferences around the UK, USA, and India, and am particularly interested in seeing just how far we can push the capabilities of C#.
+
+When I'm not coding, or running after my two small children, I have been known to enjoy the classic series of Doctor Who, Fighting Fantasy Gamebooks, Cryptic Crosswords, and rather more coffee than is probably good for me.
+
+**Abstract:**
+
+I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don't mean I don't want to do my work - far from it - I mean that I hate to write out a great deal of code to get the job done. I want to accomplish my goals with as little effort as possible.
+
+One of my pet hates is writing enhancements that involve copying and pasting blocks of code, changing a variable name, then leaving everything else the same. I hate having to consider each and every possible null reference exception, and adding in a whole ton of boilerplate to handle it. I hate having to spent ages jumping back and forth in a legacy codebase, trying to understand what it actually does!
+
+What's the alternative? In this talk, I'll demonstrate a way of working that avoids all this unneccesary work, and gives you more time to do something more productive.
+
 
 ### [Tim Seaward](https://twitter.com/timseaw)
 
