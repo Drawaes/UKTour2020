@@ -13,7 +13,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) |
-| [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) <br/> [Dean Ward](https://twitter.com/deanward81) |
+| [.NET South West](https://www.meetup.com/dotnetsouthwest/) | [Tim Seaward](https://twitter.com/timseaw) Digging into the bedrock (framework) <br/> [Dean Ward](https://twitter.com/deanward81) |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) |
 | [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) | Vishal Vazkar <br/> [Martin Woodward](https://twitter.com/martinwoodward) |
 
