@@ -11,7 +11,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) (London) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Bill Wagner](https://twitter.com/billwagner) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
-| [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) <br/> [Matt Warren](https://twitter.com/matthewwarren) |
+| [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Martin Beeby](https://twitter.com/thebeebs) |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) (Bristol) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) - The History of .NET |
@@ -38,15 +38,13 @@ Content developer for C# and .NET Core at Microsoft. Based in USA.
 
 ### [David Wengier](https://twitter.com/davidwengier)
 
-Developer on the .NET Project System in Visual Studio team at Microsoft. Based in Melbourne, Australia.
+Developer on the .NET Project System in Visual Studio team at Microsoft. Based in Melbourne, Australia, mostly interested in C#, good design and Lego Technic and Creator Expert cars. He can be found tweeting at @davidwengier, streaming at https://twitch.tv/davidwengier, helping to organize the DDD Melbourne conference, and on about a half dozen different slacks.
 
 A developer for the last 20 years, David has had experience in lots of different languages and environments, from cgi-bin scripts in Perl, to genetic algorithms in VB3, and Windows applications in COBOL. A series of terrible decisions, clearly, but he learnt in the end and now spends most of his time developing with .NET in C#, and enabling other developers to do the same.
 
-David is is mostly interested in C#, good design and Lego Technic and Creator Expert cars. He can be found tweeting at @davidwengier, helping to organize the DDD Melbourne conference, and on about a half dozen different slacks.
+**Abstract:**
 
-**Abstract:** TODO
-
-
+In this session we’ll dive into SDK-style project files and MSBuild to show you some of the techniques used by the .NET Project System team, and most of the rest of the dotnet org on GitHub, to make your project files easy to manage, author and maintain, make it easy to start new projects, and perhaps most importantly show you how to diagnose issues with your builds. Come and hear all of the things I wish David wished he knew about before joining the project system team, and hopefully you’ll be able to improve your project/build environment as a result.
 
 ### [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams
 
