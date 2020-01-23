@@ -8,7 +8,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
-| [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
+| [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) (London) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) |
@@ -147,13 +147,17 @@ Opensource advocate, .NET dewveloper, FileSystem guru, computer history archivis
 
 
 
-### [Olia Gavrysh](https://twitter.com/oliagavrysh)
+### [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core
 
 Program manager on .NET team (WinForms, WPF and other areas). Based in Redmond, USA.
 
+**Abstract:**
+
+In this talk you’ll learn about the future of Windows desktop platforms (WinForms and WPF), the differences between .NET Core and .NET Framework as a target platform and what is a better fit for your applications. You’ll also see how to port your existing desktop application from .NET Framework to .NET Core.
 
 
-### [Richard Campbell](https://twitter.com/richcampbell)
+
+### [Richard Campbell](https://twitter.com/richcampbell) - The History of .NET
 
 Microsoft Regional Director. Host of .NET Rocks! Based in Canada.
 
