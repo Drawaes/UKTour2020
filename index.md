@@ -196,4 +196,8 @@ What's the alternative? In this talk, I'll demonstrate a way of working that avo
 
 By day works in a place that he can't mention on electronic trading things he can't talk about. By night a .NET open source contributor that loves all things networking and protocols . Based in UK.
 
-**Abstract:** TODO
+**Abstract:** 
+
+After an abridged history of pipelines and Bedrock Framework, we will look at a basic implementation today. Then after getting our hands a little dirty looking at the internals we will discuss what the future holds for Bedrock and not only what Bedrock can do for you but what you can do for Bedrock.
+
+
