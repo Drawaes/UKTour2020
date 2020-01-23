@@ -10,7 +10,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 |-----------------------|--------------------------|
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) (London) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
-| [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Irina Scurtu](https://twitter.com/irina_scurtu) <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
+| [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Irina Scurtu](https://twitter.com/irina_scurtu) - Forget about HTTP <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Martin Beeby](https://twitter.com/thebeebs) <br/> [Natalia Portillo](https://twitter.com/girlyngeek) - Compile once run everywhere: How to syscall three kernels with a single executable |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) (Bristol) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
@@ -64,9 +64,15 @@ Over the past 20 years Diego has been working in lots of different industries us
 
 
 
-### [Irina Scurtu](https://twitter.com/irina_scurtu)
+### [Irina Scurtu](https://twitter.com/irina_scurtu) - Forget about HTTP
 
 Microsoft MVP. Based in Romania.
+
+**Abstract:**
+
+Microservices should be autonomous and independent, but what happens when your business domain doesn’t allow it, and you need to get data from other microservices? You’ll soon realize that simple HTTP calls are not enough anymore, or that your app is more brittle than ever and then you switch to messaging. With messaging you need to have a different mindset and be willing to embrace new challenges.
+
+In this session, we’ll see what other options we have and we’ll talk about the benefits or the drawbacks of choosing an approach or another.
 
 
 
